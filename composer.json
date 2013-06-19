@@ -12,7 +12,6 @@
         }
     ],
     "require": {
-        "ano/common-bundle": "*",
         "symfony/framework-bundle": ">=2.1",
         "knplabs/gaufrette": "*"
     },

@@ -1,5 +1,5 @@
 {
-    "name":         "ano/media-bundle",
+    "name":         "yanickouellet/media-bundle",
     "description":  "Anonymation media bundle",
     "keywords":     ["media"],
     "type":         "symfony-bundle",
